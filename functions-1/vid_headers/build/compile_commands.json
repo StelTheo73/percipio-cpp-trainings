@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/steltheo73/Coding/cpp/nokia-trainings/functions-1/vid_headers/build",
+  "command": "/usr/bin/c++   -Wall -Wextra -Wpedantic -Werror -std=gnu++23 -o CMakeFiles/vid_headers.dir/main.cpp.o -c /home/steltheo73/Coding/cpp/nokia-trainings/functions-1/vid_headers/src/main.cpp",
+  "file": "/home/steltheo73/Coding/cpp/nokia-trainings/functions-1/vid_headers/src/main.cpp"
+},
+{
+  "directory": "/home/steltheo73/Coding/cpp/nokia-trainings/functions-1/vid_headers/build",
+  "command": "/usr/bin/c++   -Wall -Wextra -Wpedantic -Werror -std=gnu++23 -o CMakeFiles/vid_headers.dir/lib/overloading/function_overloading.cpp.o -c /home/steltheo73/Coding/cpp/nokia-trainings/functions-1/vid_headers/src/lib/overloading/function_overloading.cpp",
+  "file": "/home/steltheo73/Coding/cpp/nokia-trainings/functions-1/vid_headers/src/lib/overloading/function_overloading.cpp"
+}
+]

@@ -1,0 +1,3 @@
+/home/steltheo73/Coding/cpp/nokia-trainings/functions-1/vid03/build/CMakeFiles/vid03.dir
+/home/steltheo73/Coding/cpp/nokia-trainings/functions-1/vid03/build/CMakeFiles/edit_cache.dir
+/home/steltheo73/Coding/cpp/nokia-trainings/functions-1/vid03/build/CMakeFiles/rebuild_cache.dir

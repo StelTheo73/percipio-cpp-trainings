@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/steltheo73/Coding/cpp/nokia-trainings/functions-1/vid03/build",
+  "command": "/usr/bin/c++  -I/home/steltheo73/Coding/cpp/nokia-trainings/functions-1/vid03/src/lib -Wall -Wextra -Wpedantic -Werror -std=gnu++23 -o CMakeFiles/vid03.dir/main.cpp.o -c /home/steltheo73/Coding/cpp/nokia-trainings/functions-1/vid03/src/main.cpp",
+  "file": "/home/steltheo73/Coding/cpp/nokia-trainings/functions-1/vid03/src/main.cpp"
+}
+]

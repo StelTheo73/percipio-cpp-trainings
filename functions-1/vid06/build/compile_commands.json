@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/steltheo73/Coding/cpp/nokia-trainings/functions-1/vid06/build",
+  "command": "/usr/bin/c++  -I/home/steltheo73/Coding/cpp/nokia-trainings/functions-1/vid06/src/lib -Wall -Wextra -Wpedantic -Werror -std=gnu++23 -o CMakeFiles/vid06.dir/main.cpp.o -c /home/steltheo73/Coding/cpp/nokia-trainings/functions-1/vid06/src/main.cpp",
+  "file": "/home/steltheo73/Coding/cpp/nokia-trainings/functions-1/vid06/src/main.cpp"
+},
+{
+  "directory": "/home/steltheo73/Coding/cpp/nokia-trainings/functions-1/vid06/build",
+  "command": "/usr/bin/c++  -I/home/steltheo73/Coding/cpp/nokia-trainings/functions-1/vid06/src/lib -Wall -Wextra -Wpedantic -Werror -std=gnu++23 -o CMakeFiles/vid06.dir/lib/function_overloading.cpp.o -c /home/steltheo73/Coding/cpp/nokia-trainings/functions-1/vid06/src/lib/function_overloading.cpp",
+  "file": "/home/steltheo73/Coding/cpp/nokia-trainings/functions-1/vid06/src/lib/function_overloading.cpp"
+}
+]

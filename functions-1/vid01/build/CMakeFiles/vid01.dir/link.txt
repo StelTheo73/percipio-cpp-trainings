@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/vid01.dir/main.cpp.o CMakeFiles/vid01.dir/lib/default_values.cpp.o -o vid01 
