@@ -1,0 +1,8 @@
+{
+    "sonarlint.pathToCompileCommands": "${workspaceFolder}/vid03/build/compile_commands.json",
+    "files.associations": {
+        "*.robot": "robotframework",
+        "*.proto": "proto3",
+        "ostream": "cpp"
+    }
+}
